@@ -1,20 +1,20 @@
 Isaac Asimov how to read - According to Foundation Prelude
 
-- [X] The complete Robot - Collection of robots stories, includes all stories and I, Robot.
-- [ ] The caves of steel.
-- [ ] The naked sun.
-- [ ] The robots of dawn
-- [ ] Robots and Empire
-- [ ] The stars, like dust 
-- [ ] The Currents of Space
-- [ ] Pebble in the sky
-- [X] Foundation Prelude
-- [ ] Forward the Foundation
-- [X] Foundation
-- [X] Foundation and Empire
-- [ ] Second Foundation
-- [ ] Foundation's Edge
-- [ ] Foundation and Earth
+1. [X] The complete Robot - Collection of robots stories, includes all stories and I, Robot.
+1. [X] The caves of steel.
+1. [ ] The naked sun.
+1. [ ] The robots of dawn
+1. [ ] Robots and Empire
+1. [ ] The stars, like dust 
+1. [ ] The Currents of Space
+1. [ ] Pebble in the sky
+1. [X] Foundation Prelude
+1. [ ] Forward the Foundation
+1. [X] Foundation
+1. [X] Foundation and Empire
+1. [ ] Second Foundation
+1. [ ] Foundation's Edge
+1. [ ] Foundation and Earth
 
 References:
 
