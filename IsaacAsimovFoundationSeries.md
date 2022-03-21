@@ -2,7 +2,7 @@ Isaac Asimov how to read - According to Foundation Prelude
 
 1. [X] The complete Robot - Collection of robots stories, includes all stories and I, Robot.
 1. [X] The caves of steel.
-1. [ ] The naked sun.
+1. [X] The naked sun.
 1. [ ] The robots of dawn
 1. [ ] Robots and Empire
 1. [ ] The stars, like dust 
