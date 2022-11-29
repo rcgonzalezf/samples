@@ -5,7 +5,7 @@ Isaac Asimov how to read - According to Foundation Prelude
 1. [X] The naked sun.
 1. [X] The robots of dawn
 1. [X] Robots and Empire
-1. [ ] The stars, like dust 
+1. [X] The stars, like dust 
 1. [ ] The Currents of Space
 1. [ ] Pebble in the sky
 1. [X] Foundation Prelude
