@@ -9,7 +9,7 @@ Isaac Asimov how to read - According to Foundation Prelude
 1. [x] The Currents of Space
 1. [X] Pebble in the sky
 1. [X] Foundation Prelude
-1. [ ] Forward the Foundation
+1. [X] Forward the Foundation
 1. [X] Foundation
 1. [X] Foundation and Empire
 1. [ ] Second Foundation
